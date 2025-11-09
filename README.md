@@ -22,7 +22,6 @@ umplute de alte elemente, alese aleator. Jocul se termină la atingerea unui num
 </p>
 
 ## Cuprins
-___
 
 1. Dependențe
 2. Structură
@@ -38,7 +37,6 @@ ___
 - colorama 0.4.6: https://pypi.org/project/colorama/
 
 ## 2. Structură
-___
 
     Proiect_CandyCrush
     ├── src
@@ -60,7 +58,6 @@ este inclusă o prezentare a proiectului.
 </p>
 
 ## 3. Utilizare
-___
 
 ### Fișierele de intrare
 
@@ -137,7 +134,6 @@ următoarea linie de comandă:
 </p>
 
 ## 4. Algoritm
-___
 
 <p align="justify">
 Algoritmul de automatizare a jocului Candy Crush se bazează pe o strategie deterministică și de tip "greedy", deși, 
@@ -217,7 +213,6 @@ posibilitatea ca, la un moment dat, pentru un model căutat, swap-ul să generez
 </p>
 
 ## Licență
-___
 
 MIT License
 
