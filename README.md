@@ -8,7 +8,6 @@ programare Python în versiunea 3.12, deși poate rula cu orice versiune de Pyth
 </p>
 
 ## Descriere
-___
 
 <p align="justify">
 Jocul Candy Crush face parte din categoria jocurilor puzzle, mai precis, subcategoria de
